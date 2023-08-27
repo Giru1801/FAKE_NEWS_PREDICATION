@@ -1,0 +1,1 @@
+# in this project predict the new is fake or real
